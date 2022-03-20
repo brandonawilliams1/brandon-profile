@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brandon-profile/static/css/main.cb6596fd.css",
+    "main.js": "/brandon-profile/static/js/main.f637ef9f.js",
+    "static/js/787.1297335f.chunk.js": "/brandon-profile/static/js/787.1297335f.chunk.js",
+    "static/media/background.jpg": "/brandon-profile/static/media/background.57b71922ebdc4fd43505.jpg",
+    "index.html": "/brandon-profile/index.html",
+    "main.cb6596fd.css.map": "/brandon-profile/static/css/main.cb6596fd.css.map",
+    "main.f637ef9f.js.map": "/brandon-profile/static/js/main.f637ef9f.js.map",
+    "787.1297335f.chunk.js.map": "/brandon-profile/static/js/787.1297335f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6596fd.css",
+    "static/js/main.f637ef9f.js"
+  ]
+}
