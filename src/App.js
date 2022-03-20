@@ -1,12 +1,12 @@
 import './App.css';
 import React from 'react';
-import { NavLink, Router, Routes, Route } from "react-router-dom";
+import {  Routes, Route } from "react-router-dom";
 import Header from './components/Header';
-import Section from './components/Section';
 import Info from './components/Info';
-import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import Works from './components/Works';
+import Contact from './components/Contact';
+
 
 function App() {
   return (
@@ -15,7 +15,8 @@ function App() {
       <Routes>
         
           <Route path='/' element={<Info/>}/>
-          <Route path='/Works' element={<Works />} />
+          <Route path='/works' element={<Works />} />
+          <Route path='/contact' element={<Contact />} />
         </Routes>  
       <Footer />
 

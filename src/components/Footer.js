@@ -1,7 +1,7 @@
 export default function Header(){
     return(
         <div>
-            Footer
+            <h2>Page By Brandon Williams</h2>
         </div>
     )
 }
