@@ -1,5 +1,4 @@
-Deployed App : https://brandonawilliams1.github.io/
-# Getting Started with Create React App
+Deployed App : https://brandonawilliams1.github.io/brandon-profile/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
