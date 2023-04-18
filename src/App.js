@@ -11,14 +11,14 @@ import Contact from './components/Contact';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Header/>
       <Routes>
         
           <Route path='/' element={<Info/>}/>
           <Route path='/works' element={<Works />} />
           <Route path='/contact' element={<Contact />} />
         </Routes>  
-      <Footer />
+      <Footer/>
 
     </div>
   );
