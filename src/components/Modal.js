@@ -1,4 +1,4 @@
-// import { NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './styles/Modal.css'
 import { Close } from '@material-ui/icons';
 
