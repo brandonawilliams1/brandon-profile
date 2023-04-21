@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.adb90df3.css",
-    "main.js": "/static/js/main.7efb7db6.js",
-    "static/js/787.1297335f.chunk.js": "/static/js/787.1297335f.chunk.js",
-    "static/media/background.jpg": "/static/media/background.57b71922ebdc4fd43505.jpg",
-    "index.html": "/index.html",
-    "main.adb90df3.css.map": "/static/css/main.adb90df3.css.map",
-    "main.7efb7db6.js.map": "/static/js/main.7efb7db6.js.map",
-    "787.1297335f.chunk.js.map": "/static/js/787.1297335f.chunk.js.map"
+    "main.css": "/brandon-profile/static/css/main.aa074798.css",
+    "main.js": "/brandon-profile/static/js/main.f12849ee.js",
+    "static/js/787.1297335f.chunk.js": "/brandon-profile/static/js/787.1297335f.chunk.js",
+    "static/media/background.jpg": "/brandon-profile/static/media/background.57b71922ebdc4fd43505.jpg",
+    "index.html": "/brandon-profile/index.html",
+    "main.aa074798.css.map": "/brandon-profile/static/css/main.aa074798.css.map",
+    "main.f12849ee.js.map": "/brandon-profile/static/js/main.f12849ee.js.map",
+    "787.1297335f.chunk.js.map": "/brandon-profile/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adb90df3.css",
-    "static/js/main.7efb7db6.js"
+    "static/css/main.aa074798.css",
+    "static/js/main.f12849ee.js"
   ]
 }
