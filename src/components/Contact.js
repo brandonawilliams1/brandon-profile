@@ -5,7 +5,7 @@ export default function Contact() {
     return (
           <div className='contact'>
   
-          <h1>Contact us</h1>
+          <h1>Contact Me</h1>
           <input type="text" placeholder='Name'/>
           <input type="text" placeholder='Email'/>
           <input type="text" placeholder='Message' className='input-message'/>
