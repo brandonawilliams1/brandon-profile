@@ -1,6 +1,6 @@
 import './styles/Info.css';
 import { NavLink } from "react-router-dom";
-import Header from './Header';
+// import Header from './Header';
 import Section from './Section';
 import Footer from './Footer';
 import Testimonials from './Testimonials';
@@ -9,7 +9,6 @@ import Testimonials from './Testimonials';
 export default function Info(){
     return(
         <>
-            <Header />
             <Section />
             <div className='info-section'>
 
