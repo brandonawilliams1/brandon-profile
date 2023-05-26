@@ -1,7 +1,8 @@
+import { NavLink } from 'react-router-dom';
 import React,{useState} from 'react';
 import './styles/Section.css'
 import Modal from './Modal';
-import { NavLink } from 'react-router-dom';
+
 
 export default function Section(){
     const [modalActive,setModalActive] = useState(false)
