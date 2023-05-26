@@ -3,7 +3,7 @@ import './styles/Info.css';
 import Header from './Header';
 import Section from './Section';
 import Testimonials from './Testimonials';
-import Footer from './Footer';
+
 
 
 
@@ -39,7 +39,6 @@ export default function Info(){
                 </div>
             </div>
             <Testimonials />
-            <Footer />
         </>   
     )
 }
