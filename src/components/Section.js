@@ -15,8 +15,8 @@ export default function Section(){
 
 
       <div>
-        <h1 className='main-header'>Hey my name is <span>Brandon Williams</span> </h1>
-        <p className='main-status'>I am currently A studen at NorthWestern College's bootcamp for Full-Stack Web Development with a focus on the MERN Stack, Eager to learn, and easily coachable, looking to change career paths. I work well in teams or independently, my intention is to become a senior developer and continue to grow in my new skillset. Becoming a web developer is a personal goal as well as a perfessional one. </p>
+        <h1 className='main-header'>Hello, and welcome to my page my name is <span>Brandon Williams</span> </h1>
+        <p className='main-status'>I am a software engineer, I'm experienced with frontend and backend software engineering. I currently build full-stack web applications using a variety of technologies such as MongoDB, a document database, Express.js a robust minimal yet flexible web application framework, React which is a frontend JavaScript user interface library, and last but not least Node allows you to run JavaScript without needing the browser and designed to build scalable network applications. These technologies have allowed me to build scaleable robust and dynamic full-Stack web applications.</p>
         <div className='main-btn'>
           <NavLink onClick={showModal} to='/'>see work</NavLink>
         </div>
