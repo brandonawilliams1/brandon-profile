@@ -26,16 +26,22 @@ export default function Info(){
 
 
                 <div className="info-content">
-                    <h1>Who is Brandon </h1>
-                    <p>Father & Husband</p>
-                    <p>Full-Stack Software Developer</p>
-                    <p>React js Programmer</p>
-                    <p>JavaScript Developer</p>
-                    <p>Cable, Phone, Internet Technician</p>
-                    <p>Musician</p>
-                    <p>15 years of experience in Cable & Internet</p>
-                    <p>6 months of experience in Full-Stack Web Development</p>
-                    <p>SQL Developer</p>
+                    <h1>SKILLS </h1>
+                    <p>GitHub</p>
+                    <p>Git</p>
+                    <p>HTML</p>
+                    <p>CSS</p>
+                    <p>JavaScript</p>
+                    <p>Excellent Communication</p>
+                    <p>Problem Solving</p>
+                    <p>MongoDB</p>
+                    <p>Adaptability</p>
+                    <p>React</p>
+                    <p>Heroku</p>
+                    <p>Critical Thinking</p>
+                    <p>API REST</p>
+                    <p>Node</p>
+                    <p>MySQL</p>
                 </div>
             </div>
             <Testimonials />
