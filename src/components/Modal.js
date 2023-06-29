@@ -11,22 +11,22 @@ export default function Modal({ showModal }) {
             </div>
 
             <div className="cart">
-                <a href="https://www.linkedin.com/in/brandon-williams-kodewerk/">linkedin</a>
+                <a href="https://www.linkedin.com/in/brandonwilliams-software-engineer/" target="_blank" rel="noopener noreferrer">linkedin</a>
             </div>
 
             <div className="cart">
-                <a href="https://unpuffd.herokuapp.com/">Group Project</a>
+                <a href="https://github.com/settings/organizations" target="_blank" rel="noopener noreferrer">Project Contributions</a>
             </div>
 
             <div className="cart">
-                <a href="https://github.com/brandonawilliams1/SQL-Employee-Tracker">SQL Employee Tracker CLI</a>
+                <a href="https://github.com/brandonawilliams1/SQL-Employee-Tracker" target="_blank" rel="noopener noreferrer">SQL Employee Tracker CLI</a>
             </div>
 
             <div className="cart">
-                <a href="https://github.com/brandonawilliams1/SQL-Employee-Tracker">SQL Employee Tracker CLI</a>
+                <a href="https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App" target="_blank" rel="noopener noreferrer">E-Commerce Backend Application</a>
             </div>
             <div className="cart">
-                <a href="https://github.com/EMJBB-Project-3">Full Stack MERN App</a>
+                <a href="https://github.com/EMJBB-Project-3" target="_blank" rel="noopener noreferrer">Full Stack MERN App</a>
             </div>
         </div>
     );
