@@ -17,7 +17,7 @@ export default function Info(){
                 <div className="info-about">
                     <h3>About <span>Brandon</span></h3>
                     <p className='info-about-status'>
-                    I am a software engineer, I'm experienced with frontend and backend software engineering. I currently build full-stack web applications using a variety of technologies such as MongoDB, a document database, Express.js a robust minimal yet flexible web application framework, React which is a frontend JavaScript user interface library, and last but not least Node allows you to run JavaScript without needing the browser and designed to build scalable network applications. These technologies have allowed me to build scaleable robust and dynamic full-Stack web applications.
+                    I am a software engineer, I'm experienced with frontend and backend software engineering. Currently I build full-stack web applications using a variety of technologies such as MongoDB or MySQL as the database, Express.js used for building server-side applications and APIs in Node.js, a simple and flexible way to handle HTTP request and responses. React which is a frontend JavaScript library used to make modular user interfaces and manage the state of applications, and last but not least Node.js which allows you to run server-side JavaScript without needing to use the browser and designed to build scalable network applications. These technologies have allows me to build scaleable robust and dynamic full-Stack web applications.
                     </p>
                     <div className="info-btn">
                         <NavLink to='/'>More</NavLink>
