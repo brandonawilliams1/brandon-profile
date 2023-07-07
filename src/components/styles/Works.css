@@ -1,11 +1,12 @@
 .works{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background: var(--clr-black);
     display: flex;
     align-items: center;
     justify-content: flex-start;
     flex-direction: column;
+    flex-wrap: wrap;
 
 }
 .works h1 {
@@ -31,7 +32,7 @@
     background: hsl(var(--clr-glass));
     color: var(--clr-white);
     text-decoration: none;
-    padding: .4em;
+    /* padding: .4em; */
     margin-block: 1rem;
     text-transform: uppercase;
 }

@@ -13,20 +13,20 @@ export default function Works(){
         
         <div className='works'>
             <div className='workscard'>
-                <div className='project-cards1'>
-                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'><img src={img3} alt='screenshot of employee tracker project app' />SQL-Employee-Tracker</a>
+                <div className='project-card'>
+                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'><img src={img3} alt='screenshot of employee tracker project app' /></a>SQL-Employee-Tracker
                 </div>
-                <div className='projects-cards2'>
-                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'><img src={img2} alt='dynamic landing page project' />Dynamic Landing Page</a>
+                <div className='project-card'>
+                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'><img src={img2} alt='dynamic landing page project' /></a>Dynamic Landing Page
                 </div>
-                <div className='projects-card3'>
-                    <a href='https://github.com/brandonawilliams1/Note-Taker-App'><img src={img4} alt='screenshot of note taker app'></img>Note Taker App</a>
+                <div className='project-card'>
+                    <a href='https://github.com/brandonawilliams1/Note-Taker-App'><img src={img4} alt='screenshot of note taker app'></img></a>Note Taker App
                 </div>
-                <div className='projects-card4'>
-                    <a href='https://github.com/coding-p2-g2/unpuffd'><img src={img5} alt='screenshot of unpuffd app'></img>unPuffd</a>
+                <div className='project-card'>
+                    <a href='https://github.com/coding-p2-g2/unpuffd'><img src={img5} alt='screenshot of unpuffd app'></img></a>unPuffd
                 </div>
-                <div className='projects-card4'>
-                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'><img src={img1} alt='screenshot of e-commerce backend app'></img>E-Eommerce Backend App</a>
+                <div className='project-card'>
+                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'><img src={img1} alt='screenshot of e-commerce backend app'></img></a>E-Eommerce Backend App
                 </div>
                 
             </div>
