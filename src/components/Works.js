@@ -14,23 +14,23 @@ export default function Works(){
         <div className='works'>
             <div className='workscard'>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'><img src={img3} alt='screenshot of employee tracker project app' /></a>SQL-Employee-Tracker
+                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'><img src={img3} alt='screenshot of employee tracker project app' />SQL-Employee-Tracker</a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'><img src={img2} alt='dynamic landing page project' /></a>Dynamic Landing Page
+                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'><img src={img2} alt='dynamic landing page project' />Dynamic Landing Page</a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/Note-Taker-App'><img src={img4} alt='screenshot of note taker app'></img></a>Note Taker App
+                    <a href='https://github.com/brandonawilliams1/Note-Taker-App'><img src={img4} alt='screenshot of note taker app'></img>Note Taker App</a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/coding-p2-g2/unpuffd'><img src={img5} alt='screenshot of unpuffd app'></img></a>unPuffd
+                    <a href='https://github.com/coding-p2-g2/unpuffd'><img src={img5} alt='screenshot of unpuffd app'></img>unPuffd</a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'><img src={img1} alt='screenshot of e-commerce backend app'></img></a>E-Eommerce Backend App
+                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'><img src={img1} alt='screenshot of e-commerce backend app'></img>E-Eommerce Backend App</a>
                 </div>
                 
             </div>
-            <div className='workscard'>
+            <div className='workscard-footer'>
                  <span><a href="https://github.com/brandonawilliams1/">Collab with Me on GitHub<FaGithubSquare /></a></span>
                  <span><a href="https://www.linkedin.com/in/brandonwilliams-software-engineer">Connect with Me on LinkedIn<FaLinkedin /></a></span>
                  <span><a href="https://twitter.com/technocraticaly">Follow Me on Twitter<FaTwitterSquare /></a></span>
