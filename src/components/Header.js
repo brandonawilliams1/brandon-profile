@@ -20,7 +20,7 @@ export default function Header(){
         <nav>
             <ul className={active ? "list-items active" : "list-items"}>
 
-                <div className="close-icon">
+            <div className="close-icon">
                      <Close className='close' onClick={showHam}/>
                 </div>
 

@@ -14,19 +14,21 @@ export default function Works(){
         <div className='works'>
             <div className='workscard'>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'><img src={img3} alt='screenshot of employee tracker project app' />SQL-Employee-Tracker</a>
+                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'>SQL-Employee-Tracker<img src={img3} alt='screenshot of employee tracker project app' /></a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'><img src={img2} alt='dynamic landing page project' />Dynamic Landing Page</a>
+                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'>Dynamic Landing Page<img src={img2} alt='dynamic landing page project' /></a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/Note-Taker-App'><img src={img4} alt='screenshot of note taker app'></img>Note Taker App</a>
+                    <div>Note Taker</div>
+                    <a href='https://github.com/brandonawilliams1/Note-Taker-App'>Note Taker<img src={img4} alt='screenshot of note taker app'></img></a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/coding-p2-g2/unpuffd'><img src={img5} alt='screenshot of unpuffd app'></img>unPuffd</a>
+                    <div>unPuffd</div>
+                    <a href='https://github.com/coding-p2-g2/unpuffd'>unPuffd<img src={img5} alt='screenshot of unpuffd app'></img></a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'><img src={img1} alt='screenshot of e-commerce backend app'></img>E-Eommerce Backend App</a>
+                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'>E-Eommerce Backend App<img src={img1} alt='screenshot of e-commerce backend app'></img></a>
                 </div>
                 
             </div>

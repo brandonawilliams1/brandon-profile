@@ -1,12 +1,11 @@
 .works{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background: var(--clr-black);
     display: flex;
     align-items: center;
     justify-content: flex-start;
     flex-direction: column;
-    /* flex-wrap: wrap; */
 
 }
 .works h1 {
