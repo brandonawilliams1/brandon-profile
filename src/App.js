@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router-dom";
+import React from 'react';
 import "./App.css";
 import Header from './components/Header';
 import Info from "./components/Info";
@@ -9,7 +10,6 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <>
       <Header />
         <Routes>
           <Route index element={<Info />} />
@@ -18,7 +18,6 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer />
-      </>
     </div>
   );
 }

@@ -9,7 +9,7 @@ export default function Header(){
 
         const showHam = () => {
         setActive(!active)
-        }
+        };
     return(
         <div className='header'>
         
@@ -20,8 +20,8 @@ export default function Header(){
         <nav>
             <ul className={active ? "list-items active" : "list-items"}>
 
-            <div className="close-icon">
-                     <Close className='close' onClick={showHam}/>
+                <div className="close-icon">
+                     <Close className='close' onClick={showHam} />
                 </div>
 
                 <li><NavLink to='/'>Home</NavLink></li>

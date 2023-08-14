@@ -14,10 +14,10 @@ export default function Works(){
         <div className='works'>
             <div className='workscard'>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/SQL-Employee-Tracker'>SQL-Employee-Tracker<img src={img3} alt='screenshot of employee tracker project app' /></a>
+                    <a href='https://brandonawilliams1.github.io/weather-app/'>API Weather App<img src={img3} alt='screenshot of Weather app' /></a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/dynamicLandinPage'>Dynamic Landing Page<img src={img2} alt='dynamic landing page project' /></a>
+                    <a href='https://brandonawilliams1.github.io/dynamicLandinPage/'>Dynamic Landing Page<img src={img2} alt='dynamic landing page project' /></a>
                 </div>
                 <div className='project-card'>
                     <div>Note Taker</div>
