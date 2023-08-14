@@ -1,6 +1,5 @@
 import './styles/Info.css';
 import { NavLink } from "react-router-dom";
-import Header from './Header';
 import Section from './Section';
 import Testimonials from './Testimonials';
 

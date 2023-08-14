@@ -1,7 +1,7 @@
 import "./styles/Header.css";
 import { NavLink } from "react-router-dom";
 import { Close, MenuOutlined } from "@material-ui/icons";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 export default function Header() {
   const [active, setActive] = useState(false);
@@ -10,11 +10,6 @@ export default function Header() {
     setActive(!active);
   };
 
-  // Automatically close the menu when navigating to a new page
-  useEffect(() => {
-    console.log('useEffect triggered');
-    setActive(false);
-  }, [window.location.pathname]);
   return (
     <div className="header">
       <div className="logo">
