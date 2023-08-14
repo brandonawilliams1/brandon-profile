@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/brandon-profile/static/css/main.332d1d10.css",
-    "main.js": "/brandon-profile/static/js/main.0b30dbec.js",
+    "main.css": "/brandon-profile/static/css/main.619faf71.css",
+    "main.js": "/brandon-profile/static/js/main.1fe823fe.js",
     "static/js/787.1297335f.chunk.js": "/brandon-profile/static/js/787.1297335f.chunk.js",
     "static/media/screenshot5.png": "/brandon-profile/static/media/screenshot5.7edaec6a3eef66aba949.png",
     "static/media/screenshot1.png": "/brandon-profile/static/media/screenshot1.470ceb77ccb96e671fbc.png",
     "static/media/screenshot2.png": "/brandon-profile/static/media/screenshot2.486fcc21dcced2cad7f8.png",
+    "static/media/screenshot3.png": "/brandon-profile/static/media/screenshot3.a58f31595930e9f77020.png",
     "static/media/background.jpg": "/brandon-profile/static/media/background.57b71922ebdc4fd43505.jpg",
-    "static/media/screenshot3.png": "/brandon-profile/static/media/screenshot3.56f736c780347e66f36f.png",
     "static/media/screenshot4.png": "/brandon-profile/static/media/screenshot4.5a9f2c6fb61bb9d0aeb9.png",
     "index.html": "/brandon-profile/index.html",
-    "main.332d1d10.css.map": "/brandon-profile/static/css/main.332d1d10.css.map",
-    "main.0b30dbec.js.map": "/brandon-profile/static/js/main.0b30dbec.js.map",
+    "main.619faf71.css.map": "/brandon-profile/static/css/main.619faf71.css.map",
+    "main.1fe823fe.js.map": "/brandon-profile/static/js/main.1fe823fe.js.map",
     "787.1297335f.chunk.js.map": "/brandon-profile/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.332d1d10.css",
-    "static/js/main.0b30dbec.js"
+    "static/css/main.619faf71.css",
+    "static/js/main.1fe823fe.js"
   ]
 }
