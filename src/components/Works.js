@@ -20,15 +20,13 @@ export default function Works(){
                     <a href='https://brandonawilliams1.github.io/dynamicLandinPage/'>Dynamic Landing Page<img src={img2} alt='dynamic landing page project' /></a>
                 </div>
                 <div className='project-card'>
-                    <div>Note Taker</div>
                     <a href='https://github.com/brandonawilliams1/Note-Taker-App'>Note Taker<img src={img4} alt='screenshot of note taker app'></img></a>
                 </div>
                 <div className='project-card'>
-                    <div>unPuffd</div>
                     <a href='https://github.com/coding-p2-g2/unpuffd'>unPuffd<img src={img5} alt='screenshot of unpuffd app'></img></a>
                 </div>
                 <div className='project-card'>
-                    <a href='https://github.com/brandonawilliams1/Grand-Acres-E-Commerce-Backend-App'>E-Eommerce Backend App<img src={img1} alt='screenshot of e-commerce backend app'></img></a>
+                    <a href='https://drive.google.com/file/d/1x7p1W7zCbMN2ADKFpCutyG41OoOu05fZ/view?pli=1'>E-Eommerce Backend App<img src={img1} alt='link to video of e-commerce backend app'></img></a>
                 </div>
                 
             </div>

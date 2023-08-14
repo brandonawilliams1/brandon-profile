@@ -1,7 +1,7 @@
 .workscard{
     width: 100%;
     height: auto;
-    margin: 5rem auto;
+    margin: 5rem auto .05rem;
     background: var(--clr-black);
     display: flex;
     align-items: center;
@@ -12,7 +12,7 @@
 .project-card{
    height: 13rem;
    width: 24rem;
-   margin: 1rem;
+   margin: 1.5rem;
 }
 
 img {

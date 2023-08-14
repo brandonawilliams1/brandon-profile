@@ -6,7 +6,6 @@ import Testimonials from './Testimonials';
 
 
 
-{/* <Header /> */}
 export default function Info(){
     return(
         <>
