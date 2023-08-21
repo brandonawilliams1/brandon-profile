@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/brandon-profile/static/css/main.619faf71.css",
-    "main.js": "/brandon-profile/static/js/main.1fe823fe.js",
+    "main.js": "/brandon-profile/static/js/main.4d93e33f.js",
     "static/js/787.1297335f.chunk.js": "/brandon-profile/static/js/787.1297335f.chunk.js",
     "static/media/screenshot5.png": "/brandon-profile/static/media/screenshot5.7edaec6a3eef66aba949.png",
     "static/media/screenshot1.png": "/brandon-profile/static/media/screenshot1.470ceb77ccb96e671fbc.png",
@@ -11,11 +11,11 @@
     "static/media/screenshot4.png": "/brandon-profile/static/media/screenshot4.5a9f2c6fb61bb9d0aeb9.png",
     "index.html": "/brandon-profile/index.html",
     "main.619faf71.css.map": "/brandon-profile/static/css/main.619faf71.css.map",
-    "main.1fe823fe.js.map": "/brandon-profile/static/js/main.1fe823fe.js.map",
+    "main.4d93e33f.js.map": "/brandon-profile/static/js/main.4d93e33f.js.map",
     "787.1297335f.chunk.js.map": "/brandon-profile/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.619faf71.css",
-    "static/js/main.1fe823fe.js"
+    "static/js/main.4d93e33f.js"
   ]
 }
