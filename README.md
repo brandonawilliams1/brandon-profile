@@ -1,4 +1,4 @@
-Deployed App : https://brandonawilliams1.github.io/brandon-profile/
+Deployed App : https://brandonwilliamswebdev.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
